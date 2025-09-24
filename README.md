@@ -126,5 +126,4 @@ McNamara and Nicholas Horton.
 
 If you encounter a clear bug, please file a minimal reproducible example
 on [Github](https://github.com/tidyverse/forcats/issues). For questions
-and other discussion, please use
-[community.rstudio.com](https://community.rstudio.com/).
+and other discussion, please use <https://forum.posit.co/>.
