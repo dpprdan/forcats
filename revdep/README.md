@@ -4,17 +4,10 @@
 
 |package      |version |error |warning |note |
 |:------------|:-------|:-----|:-------|:----|
+|cocktailApp  |0.2.3   |1     |        |     |
 |genekitr     |?       |      |        |     |
-|NA           |?       |      |        |     |
-|NA           |?       |      |        |     |
+|multinma     |0.8.1   |1     |        |     |
 |OlinkAnalyze |?       |      |        |     |
 |SCpubr       |?       |      |        |     |
-|NA           |?       |      |        |     |
-
-## New problems (2)
-
-|package   |version |error  |warning |note |
-|:---------|:-------|:------|:-------|:----|
-|[epikit](problems.md#epikit)|0.1.2   |__+1__ |        |1    |
-|[stevemisc](problems.md#stevemisc)|1.4.1   |__+1__ |        |     |
+|tidycomm     |?       |      |        |     |
 
